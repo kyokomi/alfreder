@@ -1,0 +1,21 @@
+{
+    "memo": "2ec17b398eafb052ccd0eedd3e164b767b0fa729463a1a5064a83f9d07dbcd35",
+    "projects": [
+        {
+            "name": "github.com/DHowett/go-plist",
+            "branch": "master",
+            "revision": "fd61394c0abc85ba629ff8471fa35d4309cd6609",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/kyokomi/archivex",
+            "branch": "master",
+            "revision": "10ed573d478732b64f0a223f008544ea657822fa",
+            "packages": [
+                "."
+            ]
+        }
+    ]
+}

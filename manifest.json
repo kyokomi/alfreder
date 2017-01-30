@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+        "github.com/DHowett/go-plist": {
+            "branch": "master"
+        },
+        "github.com/kyokomi/archivex": {
+            "branch": "master"
+        }
+    }
+}
